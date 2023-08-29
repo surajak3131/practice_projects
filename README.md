@@ -1,5 +1,2 @@
-# practice_projects
-My SQL,
-Python,
-Power BI,
-Tableau
+# My SQL Project
+Second hand car dealer
